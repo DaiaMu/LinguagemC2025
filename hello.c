@@ -5,7 +5,7 @@ int main() {
 
     idade = 35;
 
-    printf("Olá Mundo!!!");
+    printf("Olá Mundo!!!\n");
     printf("idade: %d\n", idade);
 
     return 0;
